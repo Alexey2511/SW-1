@@ -1,0 +1,9 @@
+Content\bigTexture.xnb
+Content\rectangleDotted.xnb
+Content\rectangleDottedKrest.xnb
+Content\rectangleGray.xnb
+Content\rectangleGrayAlfa.xnb
+Content\rectangleGrayKrest.xnb
+Content\rectangleOrangeKrest.xnb
+Content\smallTexture.xnb
+Content\smallTextureDotted.xnb

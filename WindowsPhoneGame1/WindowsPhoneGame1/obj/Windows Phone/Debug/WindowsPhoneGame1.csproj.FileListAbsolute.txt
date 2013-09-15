@@ -1,0 +1,41 @@
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.csprojResolveAssemblyReference.cache
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+c:\users\alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigTexture.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleDotted.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleDottedKrest.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGray.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGrayAlfa.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGrayKrest.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleOrangeKrest.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallTexture.xnb
+C:\Users\Дмитрий\Downloads\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallTextureDotted.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigTexture.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleDotted.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleDottedKrest.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGray.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGrayAlfa.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGrayKrest.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleOrangeKrest.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallTexture.xnb
+C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallTextureDotted.xnb

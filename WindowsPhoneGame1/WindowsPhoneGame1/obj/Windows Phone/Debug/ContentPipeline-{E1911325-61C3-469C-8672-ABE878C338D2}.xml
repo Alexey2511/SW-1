@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bigTexture.png</Source>
+      <Name>bigTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigTexture.xnb</Output>
+      <Time>2013-09-15T10:28:33.1090157+04:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleDotted.png</Source>
+      <Name>rectangleDotted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleDotted.xnb</Output>
+      <Time>2013-09-15T10:28:33.1450202+04:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleDottedKrest.png</Source>
+      <Name>rectangleDottedKrest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleDottedKrest.xnb</Output>
+      <Time>2013-09-15T10:28:33.1564495+04:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleGray.png</Source>
+      <Name>rectangleGray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGray.xnb</Output>
+      <Time>2013-09-15T10:28:33.1610237+04:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleGrayAlfa.png</Source>
+      <Name>rectangleGrayAlfa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGrayAlfa.xnb</Output>
+      <Time>2013-09-15T10:28:33.1740251+04:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleGrayKrest.png</Source>
+      <Name>rectangleGrayKrest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleGrayKrest.xnb</Output>
+      <Time>2013-09-15T10:28:33.1820246+04:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleOrangeKrest.png</Source>
+      <Name>rectangleOrangeKrest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\rectangleOrangeKrest.xnb</Output>
+      <Time>2013-09-15T10:28:33.1850258+04:00</Time>
+    </Item>
+    <Item>
+      <Source>smallTexture.png</Source>
+      <Name>smallTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallTexture.xnb</Output>
+      <Time>2013-09-15T10:28:33.2160293+04:00</Time>
+    </Item>
+    <Item>
+      <Source>smallTextureDotted.png</Source>
+      <Name>smallTextureDotted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallTextureDotted.xnb</Output>
+      <Time>2013-09-15T10:28:33.2180291+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E1911325-61C3-469C-8672-ABE878C338D2}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alexe_000\documents\visual studio 2012\Projects\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-14T13:43:29.5638403+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
